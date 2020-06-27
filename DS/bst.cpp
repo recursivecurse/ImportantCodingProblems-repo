@@ -111,7 +111,21 @@
                 }
         }
         
-        int main() {
+	bool isbst(Node *root,int min,int max)
+	{
+		if (root == NULL) return 1;
+		if (root->data >= min && root->data <= max)
+		{
+			return isbst(root->left,min,root->data) && isbst(root->right,root->data,max);
+		}
+		else return 0;
+	}
+	bool ISBST(Node *root)
+	{
+		return isbst(root,INT8_MIN,INT8_MAX);
+	}		
+
+    	int main() {
         	
         	
             	Node* root = start;
@@ -123,6 +137,8 @@
             	root = DeleteNode(root,50);
             	cout<<endl;
             	inorder(root);
+		cout<<endl;
+		cout<<ISBST(root);
 		//print(vec);
 
           	return 0;
