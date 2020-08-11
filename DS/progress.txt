@@ -1,0 +1,65 @@
+PRACTICE QUESTIONS GEEKS FOR GEEKS
+
+Linked List:-
+
+1. Count nodes of linked list
+2. Linked List Length Even or Odd
+3. Delete Alternate Nodes
+4. Identical Linked List
+5. Check If Circular Linked List
+6. Find the Sum of Last N Nodes of the Linked List
+7. Delete a Node in a doubly linked list
+8. Implementation of Stack using Linked List
+9. Find the middle of the linked list
+10. Print the elements in Linked list
+11. Print the elements in linked list in reverse order(*)
+12  Insert in Middle of Linked List
+13. Node at a given index in linked list
+14. Doubly linked list insertion at given postion
+15. Find n/k th node in Linked List
+16. Modular Node
+17. Linked List insertion
+
+Stack :-
+
+1. Stack Designer
+2. Queue Reversal
+3. Implementing stack using an array
+4. Implementation of stack using linked list
+5. Pairwise Consecutive Elements
+6. Intermediate smaller element
+7. Remove repeated digits in a given number
+8. Convert number to binary
+
+Queue :-
+
+1. Queue pop and push
+2. Implementation of a queue using an array
+3. Queue reversal
+4. C++ STL (queue)
+
+Binary Tree :-
+
+1. Height of a Binary tree
+2. Count Leaves in Binary tree
+3. Size of a Binary Tree
+4. Minimum element in a BST
+5. PostOrder Traversal
+6. Sum the binary tree
+7. Inorder Traversal
+8. Preorder Traversal
+9. Count Non Leaf Nodes
+10. Find height of a heap
+
+Binary Search Tree
+
+1.Minimum Element in a BST
+2.Searching Element in BST
+3.Checking Array is Max Heap or Not
+
+Heap 
+1.Height of a heap
+2.k largest elements
+
+
+

@@ -1,0 +1,68 @@
+Mathematics
+1.
+Number Theory
+1. Prime Sieve
+
+Bitwise Algorithms
+1.Get set bits
+2.Clear and Update bits
+3.Clearing a range of bits
+4.Replace bits in N by M
+
+
+Searching :-
+1. Count zerors in a Matrix
+2. Square root of a number
+3. Find the number that appears twice in the array
+4. Ishaan's internship *
+5. Number of Occurence
+6. Find triplets with zero sum *
+7. Last Index of One
+8. Elements in the Range
+9. Doubling the value
+10.Missing number in array
+11.Searching an element in a sorted array (Binary Search)
+12.Binary Search
+13.Remove consonants from a string
+14.Search an element
+15.Majority Element (Moore Voting Algorithm) *
+
+
+Sorting:-
+1. Sorting string
+2. Binary Array Sorting
+3. Sort in specific order
+4. Maximum product of two numbers
+5. Minimize the sum of products
+6. Swap and Maximize
+7. Selection sort
+8. Count pair sum
+9. K largest elements
+10.Find triplets with zero sum
+11.Array Equal
+12.Minimize sum of alternate product
+13.Sort the Half Sorted
+14.
+
+Recursion:- 
+1. IsArraySorted
+2. Recursive Bubble Sort
+3. String to Int (Recursive)
+4. Inversion count(Recursive)
+5. Ladder Problem
+6. Tower Of Hanoi
+7. Subsequences of the String
+8. Knapsack problem
+9. StringGeneration
+10.Ratin Maze
+11. Permutation
+12. PhoneKeypad
+13. N Queens
+
+BinarySearch
+1.Binary Search
+2.Binary Search Iterative 
+3.Binary Search on a rotated sorted array
+4.Square root of a number using binary search
+5.AggressiveCows
+6.
